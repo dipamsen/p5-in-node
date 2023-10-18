@@ -1,14 +1,14 @@
 {
   "name": "p5-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Test for running p5.js in node using node-canvas",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node sketch.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Dipam Sen",
+  "license": "MIT",
   "dependencies": {
     "canvas": "^2.11.2",
     "jsdom": "^22.1.0",
