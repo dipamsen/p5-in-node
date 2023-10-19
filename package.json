@@ -7,6 +7,9 @@
   "scripts": {
     "test": "echo Test"
   },
+  "repository": {
+    "url": "https://github.com/dipamsen/p5-in-node"
+  },
   "keywords": [],
   "author": "Dipam Sen",
   "license": "MIT",
