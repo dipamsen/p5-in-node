@@ -1,4 +1,4 @@
-import { runSketch, saveAsPNG } from "../index.js";
+import { runSketch, saveAsPNG } from "p5-in-node";
 
 const sketch = (p) => {
   p.setup = () => {
@@ -13,7 +13,7 @@ const sketch = (p) => {
       p.stroke(p.map(a, 0, p.TWO_PI, 0, 255), 100, 100);
       p.line(0, 0, 100 * p.cos(a), 100 * p.sin(a));
     }
-    saveAsPNG(p, "example/lines.png");
+    saveAsPNG(p, "lines.png");
   };
 };
 
