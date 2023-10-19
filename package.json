@@ -1,6 +1,6 @@
 {
   "name": "p5-in-node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Demo library for running p5.js sketches in node",
   "main": "index.js",
   "type": "module",
@@ -12,7 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.11.2",
-    "jsdom": "^22.1.0",
-    "p5": "^1.7.0"
+    "jsdom": "^22.1.0"
   }
 }

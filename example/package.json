@@ -11,6 +11,7 @@
   "author": "Dipam Sen",
   "license": "MIT",
   "dependencies": {
-    "p5-in-node": "^0.0.1"
+    "p5": "^1.7.0",
+    "p5-in-node": "^0.0.2"
   }
 }
