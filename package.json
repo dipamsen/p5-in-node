@@ -1,10 +1,11 @@
 {
   "name": "p5-node",
-  "version": "1.0.0",
-  "description": "Test for running p5.js in node using node-canvas",
+  "version": "0.0.1",
+  "description": "Demo library for running p5.js sketches in node",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node sketch.js"
+    "test": "echo Test"
   },
   "keywords": [],
   "author": "Dipam Sen",
