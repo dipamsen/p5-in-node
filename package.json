@@ -1,5 +1,5 @@
 {
-  "name": "p5-node",
+  "name": "p5-in-node",
   "version": "0.0.1",
   "description": "Demo library for running p5.js sketches in node",
   "main": "index.js",
