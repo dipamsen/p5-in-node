@@ -27,7 +27,7 @@ const sketch = (p) => {
     p.fill(255);
     p.rect(100, 100, 200, 200);
 
-    saveAsPNG(p, "example/lines.png");
+    saveAsPNG(p, "sketch.png");
   };
 };
 
